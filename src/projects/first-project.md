@@ -1,19 +1,26 @@
 ---
-title: Cat Translation API
-emoji: 😺
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
+title: QIceRadar Data Acessibilty site
+emoji: ❄️
+date: 2024-06-24T23:00:00.000Z
+summary: An interactive website for visualizing and accessing Antarctic research data.
+metaDescription: The QIceRadar project aims to make Antarctic research data more
+  accessible and understandable through an interactive website that provides
+  visualizations, data availability maps, and comparative analysis tools.
 tags:
-  - golang
-  - graphQL
-  - aws
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap
+  - Netlify
+  - Data Visualization
+  - Antarctic Research
+  - Accessibility
+  - GIS
 ---
-
 ### Task
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Provide a platform to visualize and access the vast amounts of data collected by various institutions on Antarctic research. The goal is to enhance data accessibility and usability, making it easier for researchers and the public to explore and understand the available data. The project will employ modern web technologies and data visualization techniques to create an interactive and user-friendly website.
 
 ### Solution
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Develop an interactive website that aggregates data from different institutions, providing a comprehensive view of Antarctic research. The site will include features such as data availability maps, institution-specific layers, and comparative analysis tools. By leveraging Bootstrap for responsive design and deploying on Netlify for easy updates, the site will ensure seamless access to data. Real-time data updates and user-generated content will enhance the site's relevance and usability.
