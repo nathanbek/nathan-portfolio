@@ -1,7 +1,7 @@
 ---
 title: QIceRadar Data Acessibilty site
 emoji: ❄️
-date: 2024-06-24T23:00:00.000Z
+date: 2024-06-18T23:00:00.000Z
 summary: An interactive website for visualizing and accessing Antarctic research data.
 metaDescription: The QIceRadar project aims to make Antarctic research data more
   accessible and understandable through an interactive website that provides
