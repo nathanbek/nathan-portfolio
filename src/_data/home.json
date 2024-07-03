@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
+  "title": "Nathan Bekele",
+  "image": "/src/assets/img/55cc7d66-3359-4617-9547-8a6df3446778-1-.jpg",
   "image_alt": "Fern in hand",
   "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
 }
